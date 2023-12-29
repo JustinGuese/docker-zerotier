@@ -1,3 +1,7 @@
+https://github.com/JustinGuese/docker-zerotier
+
+https://hub.docker.com/repository/docker/guestros/zerotier/
+
 implementing a containerized version of zerotier based on debian:12-slim image
 
 https://www.zerotier.com
