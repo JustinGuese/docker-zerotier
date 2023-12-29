@@ -1,4 +1,4 @@
-implementing a containerized version of zerotier based on bitnamis minideb image
+implementing a containerized version of zerotier based on debian:12-slim image
 
 https://www.zerotier.com
 
